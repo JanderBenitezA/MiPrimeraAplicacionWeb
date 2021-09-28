@@ -1,0 +1,92 @@
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\ApplicationInsights.config
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\csc.exe
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\vbc.exe
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\VBCSCompiler.exe
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\MiPrimeraAplicacionWeb.dll.config
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\MiPrimeraAplicacionWeb.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\MiPrimeraAplicacionWeb.pdb
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.Web.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Helpers.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Mvc.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Razor.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.Deployment.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.Razor.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.Web.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Razor.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.Deployment.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.Razor.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Helpers.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Mvc.xml
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\obj\Debug\MiPrimeraAplicacionWeb.csprojResolveAssemblyReference.cache
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\obj\Debug\MiPrimeraAplicacionWeb.dll
+D:\CURSO MVC\ProjectMVC\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\obj\Debug\MiPrimeraAplicacionWeb.pdb
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\ApplicationInsights.config
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\csc.exe
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\vbc.exe
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\VBCSCompiler.exe
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\MiPrimeraAplicacionWeb.dll.config
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\MiPrimeraAplicacionWeb.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\MiPrimeraAplicacionWeb.pdb
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.Web.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Helpers.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Mvc.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Razor.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.Deployment.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.Razor.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.Web.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Razor.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.Deployment.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Webpages.Razor.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Helpers.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\bin\System.Web.Mvc.xml
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\obj\Debug\MiPrimeraAplicacionWeb.csprojResolveAssemblyReference.cache
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\obj\Debug\MiPrimeraAplicacionWeb.dll
+D:\CURSOS\C# ASP.NET MVC (AJAX + JSON + BOOTSTRAP + JAVASCRIPT)\Proyectos\MiPrimeraAplicacionWeb\MiPrimeraAplicacionWeb\obj\Debug\MiPrimeraAplicacionWeb.pdb

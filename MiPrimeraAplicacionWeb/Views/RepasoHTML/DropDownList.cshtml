@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "DropDownList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DropDownList</h2>
+<div class="row">
+    <div class="col-md-6">
+        <select class="form-control form-select" id="cboOpciones" aria-label="Default select example">
+            <option selected>Seleccionar Opcion</option>
+            <option value="1">First Option</option>
+            <option value="2">Second Option</option>
+            <option value="3">Third Option</option>
+        </select>
+        <label id="lblAlerta" class=""></label>
+    </div>
+    <div class="col-md-6">
+        <input type="button" id="btnShow" class="btn btn-success" value="Mostrar Valor" />
+    </div>
+</div>
+
+<script>
+    var btnShow = document.getElementById("btnShow");
+    btnShow.onclick = function () {
+        var idOpcion = document.getElementById("cboOpciones").value;
+        document.getElementById("lblAlerta").innerHTML = "La opcion seleccionada es: " + idOpcion;
+        document.getElementById("lblAlerta").className += "alert alert-success mt-2";
+        alert(idOpcion);
+    }
+</script>
+

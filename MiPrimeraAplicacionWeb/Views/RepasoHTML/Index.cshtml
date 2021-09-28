@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index Repaso HTML</h2>
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col-md-6 mx-auto">
+            <h2>Formulario Login</h2>
+            <div class="mb-3">
+                <label for="lblEmail" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="txtEmail" aria-describedby="emailHelp">
+                <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            </div>
+            <div class="mb-3 mt-3">
+                <label for="lblPassword" class="form-label">Password</label>
+                <input type="password" class="form-control" id="txtPassword">
+            </div>
+            <div class="mb-3 mt-3 form-check">
+                <input type="checkbox" class="form-check-input" id="chkCheckmeOut">
+                <label class="form-check-label" for="lblCheck">Check me out</label>
+            </div>
+            <button type="submit" id="btnLogin" class="btn btn-primary">Login</button>
+        </div>
+        <div class="col-md-6 mx-auto">
+            <h2>Formulario Prueba</h2>
+            <div class="mb-3">
+                <label class="form-label">Numero 1:</label>
+                <input type="text" class="form-control" id="txtNumero1">
+            </div>
+            <div class="mb-3 mt-3">
+                <label class="form-label">Numero 2:</label>
+                <input type="text" class="form-control" id="txtNumero2">
+            </div>
+            <input type="submit" id="btnSumar" class="btn btn-primary mt-3" value="Mostrar Valor" />
+            <input type="submit" id="btnLimpiar" class="btn btn-primary mt-3" value="Limpiar" />
+            <label id="lblMensajeAlerta">La suma es: </label>
+        </div>
+    </div>
+
+</div>
+
